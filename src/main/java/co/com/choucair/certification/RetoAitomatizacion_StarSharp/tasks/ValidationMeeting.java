@@ -9,12 +9,12 @@ import net.serenitybdd.screenplay.questions.CurrentVisibility;
 import net.serenitybdd.screenplay.waits.WaitUntil;
 
 import static co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface.DasboardMenuPage.*;
-import static co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface.MeetPage.*;
+import static co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface.MeetingPage.*;
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isCurrentlyVisible;
 
-public class ValidationMeet implements Task {
+public class ValidationMeeting implements Task {
 
-    public static ValidationMeet toMeeting (){return Tasks.instrumented(ValidationMeet.class);}
+    public static ValidationMeeting toMeeting (){return Tasks.instrumented(ValidationMeeting.class);}
 
     @Override
     public <T extends Actor> void performAs(T actor) {

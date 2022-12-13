@@ -1,10 +1,9 @@
 package co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions;
 
 import co.com.choucair.certification.RetoAitomatizacion_StarSharp.questions.SearchBU;
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks.CreateBU;
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks.Login;
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks.Openup;
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks.ValidationBU;
+import co.com.choucair.certification.RetoAitomatizacion_StarSharp.questions.SearchMeeting;
+import co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks.*;
+import io.cucumber.datatable.DataTable;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
 import io.cucumber.java.en.Then;
@@ -53,5 +52,17 @@ public void setStage(){  OnStage.setTheStage (new OnlineCast());}
     public void the_UnidadWill_should_display_in_the_menu(String data) {
         theActorInTheSpotlight().should(GivenWhenThen.seeThat(SearchBU.theItemExist(data)));
     }
-
+    @Given("he go to meetings page")
+    public void he_go_to_meetings_page() {
+    theActorInTheSpotlight().attemptsTo(ValidationMeeting.toMeeting());
+    }
+    @When("he create a new meeting")
+    public void he_create_a_new_meeting(DataTable data) {
+        List <Map<String,String>>datameeting= data.asMaps(String.class,String.class);
+        theActorInTheSpotlight().attemptsTo(CreateMeeting.create(datameeting.get(0)));
+    }
+    @Then("^the (.*) should display in the table$")
+    public void the_PruebaChoucair_should_display_in_the_table(String data) {
+        theActorInTheSpotlight().should(GivenWhenThen.seeThat(SearchMeeting.theItemExist(data)));
+    }
     }
