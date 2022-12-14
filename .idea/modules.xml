@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.RetoPractico_StarSharp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.RetoPractico_StarSharp.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.proyectobase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.proyectobase.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.co.choucar.RetoPractico_StarSharp.co.com.choucair.certification.RetoPractico_StarSharp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.co.choucar.RetoPractico_StarSharp.co.com.choucair.certification.RetoPractico_StarSharp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.co.choucar.RetoPractico_StarSharp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.co.choucar.RetoPractico_StarSharp.main.iml" />
     </modules>
   </component>
 </project>
