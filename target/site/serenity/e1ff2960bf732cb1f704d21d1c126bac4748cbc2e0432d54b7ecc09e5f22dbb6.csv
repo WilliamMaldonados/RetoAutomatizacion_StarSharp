@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"As a user, I want login in the Star Sharp Page so i should create a new meetings","Create a meeting successfully","SUCCESS","2022-12-13T15:43:35.054-05:00[America/Bogota]","0.0","51.3"
+"user registration on page utest","user registration on page utest","FAILURE","2022-11-30T16:02:45.415-05:00[America/Bogota]","0.0","37.44"
