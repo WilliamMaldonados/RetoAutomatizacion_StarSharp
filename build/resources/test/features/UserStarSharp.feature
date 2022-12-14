@@ -29,5 +29,5 @@ Feature: As a user, I want login in the Star Sharp Page so i should create a new
       |<meetName>|<meetNumber>|<meetDateStart>|<meetDateEnd>|<unitName>|
     Then the <meetName> should display in the table
     Examples:
-      | meetName      | meetNumber | meetDateStart | meetDateEnd |  unitName |
-      | PruebaChoucair|     1205   |    12/02/2022 | 12/02/2022  | UnidadWIll|
+      |     meetName    |  meetNumber |  meetDateStart | meetDateEnd |   unitName  |
+      |  PruebaChoucair |     1205    |    12/02/2022  | 12/02/2022  |  UnidadWIll |

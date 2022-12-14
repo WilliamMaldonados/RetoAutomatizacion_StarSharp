@@ -9,7 +9,7 @@ import org.junit.runner.RunWith;
 @RunWith(CucumberWithSerenity.class)
 @CucumberOptions(
         features="src/test/resources/features/UserStarSharp.feature",
-        tags= "@scenario2",
+        tags= "@stories",
         glue="co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions",
 
         snippets=CucumberOptions.SnippetType.CAMELCASE)
