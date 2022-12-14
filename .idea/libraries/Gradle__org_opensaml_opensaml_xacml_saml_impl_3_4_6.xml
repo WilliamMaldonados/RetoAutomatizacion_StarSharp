@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.opensaml:opensaml-xacml-saml-impl:3.4.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-xacml-saml-impl/3.4.6/2a8dfe1251c1d3ef0c0f1b876b2a7dd7d3bf0cb8/opensaml-xacml-saml-impl-3.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-xacml-saml-impl/3.4.6/709a1b0a6ea551e0051833d4c7e8cb85445a0926/opensaml-xacml-saml-impl-3.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

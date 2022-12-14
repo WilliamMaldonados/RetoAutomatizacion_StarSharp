@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: net.sf.jt400:jt400:10.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/net.sf.jt400/jt400/10.6/3f391a43632a93874dd3f544d7cb5a91b7a02380/jt400-10.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/net.sf.jt400/jt400/10.6/bdd32e3db0d566d7468eaadb1eda6470bd88bff3/jt400-10.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.cxf:cxf-rt-databinding-jaxb:3.4.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-rt-databinding-jaxb/3.4.4/4047f05df89c9be1ca2ce739b9e9be99842520f7/cxf-rt-databinding-jaxb-3.4.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.apache.cxf/cxf-rt-databinding-jaxb/3.4.4/2d5a914f41bedafa7efb3e01a12c99307a077b3f/cxf-rt-databinding-jaxb-3.4.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

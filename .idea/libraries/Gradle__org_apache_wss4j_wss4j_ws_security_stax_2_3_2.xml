@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.apache.wss4j:wss4j-ws-security-stax:2.3.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.apache.wss4j/wss4j-ws-security-stax/2.3.2/f0989991a7e10ceb90acc22e450aa9998497935c/wss4j-ws-security-stax-2.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.apache.wss4j/wss4j-ws-security-stax/2.3.2/bde3e3ddd69e94f0e64184fff77bdd1a0c65f4b3/wss4j-ws-security-stax-2.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

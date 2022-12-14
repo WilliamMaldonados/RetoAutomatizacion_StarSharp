@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.opensaml:opensaml-security-impl:3.4.6">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-security-impl/3.4.6/dd4e7128d4de8c304827ecc972ee57ae46230fa/opensaml-security-impl-3.4.6.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../gradle/caches/modules-2/files-2.1/org.opensaml/opensaml-security-impl/3.4.6/2b6c84c4ac3558d9bd7ba27fa046a652c814a591/opensaml-security-impl-3.4.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
