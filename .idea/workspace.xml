@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2c74b0-14a6-4952-a484-41c8fab2def6" name="Changes" comment="Version 6.0 &quot;Test pass all scenarios&quot;">
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/main/classpath.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/classpath.index" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/base-style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/js/report.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.RetoAutomatizacion_StarSharp.runners.RunnerTags.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-co.com.choucair.certification.RetoAutomatizacion_StarSharp.runners.RunnerTags.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/model/StarSharp_Data.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/model/StarSharp_Data.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/questions/SearchBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/questions/SearchBU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/questions/SearchMeeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/questions/SearchMeeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/tasks/CreateBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/tasks/CreateBU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/tasks/CreateMeeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/tasks/CreateMeeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/tasks/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/tasks/Login.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/tasks/Openup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/tasks/Openup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/tasks/ValidationBU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/tasks/ValidationBU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/tasks/ValidationMeeting.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/tasks/ValidationMeeting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/userinterface/DasboardMenuPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/userinterface/DasboardMenuPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/userinterface/MeetingPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/userinterface/MeetingPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAitomatizacion_StarSharp/userinterface/StarSharpPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/userinterface/StarSharpPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/stepdefinitions/UserStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/choucair/certification/RetoAutomatizacion_StarSharp/stepdefinitions/UserStepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/0a5190217f1bfc9ece493c13119a064fe1a0ea4562a7e4ef00b633ed2f6a81f7.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0a5190217f1bfc9ece493c13119a064fe1a0ea4562a7e4ef00b633ed2f6a81f7.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/0a5190217f1bfc9ece493c13119a064fe1a0ea4562a7e4ef00b633ed2f6a81f7_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0a5190217f1bfc9ece493c13119a064fe1a0ea4562a7e4ef00b633ed2f6a81f7_screenshots.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-0a5190217f1bfc9ece493c13119a064fe1a0ea4562a7e4ef00b633ed2f6a81f7.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-0a5190217f1bfc9ece493c13119a064fe1a0ea4562a7e4ef00b633ed2f6a81f7.xml" afterDir="false" />
-    </list>
+    <list default="true" id="4f2c74b0-14a6-4952-a484-41c8fab2def6" name="Changes" comment="Version 6.0 &quot;Test pass all scenarios&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -312,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1671055580861</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Version 6.0 &quot;Test pass all scenarios&quot;">
+      <created>1671055883544</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1671055883544</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
