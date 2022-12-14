@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks;
+package co.com.choucair.certification.RetoAutomatizacion_StarSharp.tasks;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
@@ -8,8 +8,8 @@ import net.serenitybdd.screenplay.conditions.Check;
 import net.serenitybdd.screenplay.questions.CurrentVisibility;
 import net.serenitybdd.screenplay.waits.WaitUntil;
 
-import static co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface.DasboardMenuPage.*;
-import static co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface.MeetingPage.*;
+import static co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.DasboardMenuPage.*;
+import static co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.MeetingPage.*;
 import static net.serenitybdd.screenplay.matchers.WebElementStateMatchers.isCurrentlyVisible;
 
 public class ValidationMeeting implements Task {

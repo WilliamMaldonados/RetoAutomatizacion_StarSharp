@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="As a user, I want login in the Star Sharp Page so i should create a new meetings" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-14T22:03:07" hostname="DESKTOP-7VI4QQE" time="29.948">
+<testsuite name="As a user, I want login in the Star Sharp Page so i should create a new meetings" tests="2" skipped="0" failures="0" errors="0" timestamp="2022-12-14T22:09:13" hostname="DESKTOP-7VI4QQE" time="29.21">
   <properties/>
-  <testcase name="Create a new  Bussines unit" classname="As a user, I want login in the Star Sharp Page so i should create a new meetings" time="13.714"/>
-  <testcase name="Create a meeting successfully" classname="As a user, I want login in the Star Sharp Page so i should create a new meetings" time="16.234"/>
+  <testcase name="Create a new  Bussines unit" classname="As a user, I want login in the Star Sharp Page so i should create a new meetings" time="13.131"/>
+  <testcase name="Create a meeting successfully" classname="As a user, I want login in the Star Sharp Page so i should create a new meetings" time="16.079"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/Willy-PC/IdeaProjects/com.co.choucar.RetoPractico_StarSharp/src/test/resources/features/UserStarSharp.feature
 [Test worker] INFO  - 
@@ -18,15 +18,15 @@ Create a new  Bussines unit(as-a-user--i-want-login-in-the-star-sharp-page-so-i-
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\Willy-PC\.cache\selenium\chromedriver\win32\108.0.5359.71\chromedriver.exe
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Starting Chrome driver instance with capabilities:
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: []}}
-Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 57888
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 61197
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-dic 14, 2022 5:03:10 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+dic 14, 2022 5:09:16 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected upstream dialect: W3C
-dic 14, 2022 5:03:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+dic 14, 2022 5:09:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 ADVERTENCIA: Unable to find an exact match for CDP version 108, so returning the closest version found: 104
-dic 14, 2022 5:03:10 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+dic 14, 2022 5:09:16 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFORMACIÓN: Found CDP implementation for version 108 of 104
 [Test worker] INFO  - 
   _____   ___   ___   _____     ___     _     ___   ___   ___   ___  
@@ -47,15 +47,15 @@ Create a meeting successfully(as-a-user--i-want-login-in-the-star-sharp-page-so-
 --------------------------------------------------------------------------------
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Starting Chrome driver instance with capabilities:
 [Test worker] INFO net.serenitybdd.core.webdriver.driverproviders.ChromeDriverProvider - Capabilities {acceptInsecureCerts: false, browserName: chrome, goog:chromeOptions: {args: [--start-maximized], extensions: []}}
-Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 57410
+Starting ChromeDriver 108.0.5359.71 (1e0e3868ee06e91ad636a874420e3ca3ae3756ac-refs/branch-heads/5359@{#1016}) on port 59240
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-dic 14, 2022 5:03:22 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+dic 14, 2022 5:09:27 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFORMACIÓN: Detected upstream dialect: W3C
-dic 14, 2022 5:03:22 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+dic 14, 2022 5:09:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 ADVERTENCIA: Unable to find an exact match for CDP version 108, so returning the closest version found: 104
-dic 14, 2022 5:03:22 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+dic 14, 2022 5:09:27 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
 INFORMACIÓN: Found CDP implementation for version 108 of 104
 [Test worker] INFO  - 
   _____   ___   ___   _____     ___     _     ___   ___   ___   ___  

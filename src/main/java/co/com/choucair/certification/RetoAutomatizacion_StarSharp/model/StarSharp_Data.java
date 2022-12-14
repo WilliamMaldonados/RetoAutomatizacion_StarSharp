@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAitomatizacion_StarSharp.model;
+package co.com.choucair.certification.RetoAutomatizacion_StarSharp.model;
 
 public class StarSharp_Data {
 

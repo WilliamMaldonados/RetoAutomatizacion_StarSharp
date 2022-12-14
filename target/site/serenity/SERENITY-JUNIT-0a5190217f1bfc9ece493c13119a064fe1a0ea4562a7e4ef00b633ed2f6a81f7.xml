@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="user registration on page utest" skipped="0" tests="1" time="37.44" timestamp="2022-11-30 04:02:45"><testcase name="user registration on page utest"><failure message="Expected responder&#10;Expected: is &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">Expected responder
 Expected: is &lt;true&gt;
      but: was &lt;false&gt;</failure><system-err>Expected responder
-     Expected: is &lt;true&gt;
-     but: was &lt;false&gt;&#13;
-     co.com.choucair.certification.RetoAitomatizacion_StarSharp.stepdefinitions.UtestStepDefinition.registrationIsCompleteWhenWeSeeTheCompleteSetupButton(UtestStepDefinition.java:35)&#13;
-     ✽.registration is complete when we see the complete setup
-     button(src/test/resources/features/Registro_usuario.feature:13)&#13;
+    Expected: is &lt;true&gt;
+    but: was &lt;false&gt;&#13;
+    co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions.UtestStepDefinition.registrationIsCompleteWhenWeSeeTheCompleteSetupButton(UtestStepDefinition.java:35)&#13;
+    ✽.registration is complete when we see the complete setup
+    button(src/test/resources/features/Registro_usuario.feature:13)&#13;
 </system-err></testcase></testsuite>

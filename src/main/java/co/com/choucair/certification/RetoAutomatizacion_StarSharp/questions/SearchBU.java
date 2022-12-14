@@ -1,6 +1,6 @@
-package co.com.choucair.certification.RetoAitomatizacion_StarSharp.questions;
+package co.com.choucair.certification.RetoAutomatizacion_StarSharp.questions;
 
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface.DasboardMenuPage;
+import co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.DasboardMenuPage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.Text;

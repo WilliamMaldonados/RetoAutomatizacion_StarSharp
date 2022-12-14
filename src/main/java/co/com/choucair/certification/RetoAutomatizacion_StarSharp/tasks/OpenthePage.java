@@ -1,15 +1,15 @@
-package co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks;
+package co.com.choucair.certification.RetoAutomatizacion_StarSharp.tasks;
 
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface.StarSharpPage;
+import co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.StarSharpPage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Open;
 
-public class Openup implements Task {
+public class OpenthePage implements Task {
 private StarSharpPage starSharpPage;
-    public static Openup thepage(){
-        return Tasks.instrumented(Openup.class);
+    public static OpenthePage thepage(){
+        return Tasks.instrumented(OpenthePage.class);
     }
 
 

@@ -1,8 +1,8 @@
 package co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions;
 
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.questions.SearchBU;
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.questions.SearchMeeting;
-import co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks.*;
+import co.com.choucair.certification.RetoAutomatizacion_StarSharp.questions.SearchBU;
+import co.com.choucair.certification.RetoAutomatizacion_StarSharp.questions.SearchMeeting;
+import co.com.choucair.certification.RetoAutomatizacion_StarSharp.tasks.*;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;
@@ -25,7 +25,7 @@ public void setStage(){  OnStage.setTheStage (new OnlineCast());}
 
     @Given("that the user is on the star sharp page")
     public void that_the_user_is_on_the_star_sharp_page() {
-    theActorCalled("user").wasAbleTo(Openup.thepage());
+    theActorCalled("user").wasAbleTo(OpenthePage.thepage());
     }
 
 

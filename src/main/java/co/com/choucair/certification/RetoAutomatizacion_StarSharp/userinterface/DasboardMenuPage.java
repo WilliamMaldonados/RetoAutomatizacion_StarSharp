@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAitomatizacion_StarSharp.userinterface;
+package co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface;
 
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
