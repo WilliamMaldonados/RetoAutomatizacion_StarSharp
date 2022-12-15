@@ -174,11 +174,12 @@ gradle-app.setting
 
 
 # End of https://www.gitignore.io/api/gradle,eclipse
+/.idea/
 .idea/
 /build/
 .gradle
-RetoTest/target
-RetoTest/target/
+reto_test/target
+reto_test/target/
 build/
 # Ignore Gradle GUI config
 gradle-app.setting
