@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface;
+package co.com.choucair.certification.retoautomatizacion_starsharp.userinterface;
 
 import net.serenitybdd.screenplay.targets.Target;
 import net.thucydides.core.annotations.DefaultUrl;

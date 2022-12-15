@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.tasks;
+package co.com.choucair.certification.retoautomatizacion_starsharp.tasks;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
@@ -9,8 +9,8 @@ import net.serenitybdd.screenplay.actions.SelectFromOptions;
 
 import java.util.Map;
 
-import static co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.DasboardMenuPage.*;
-import static co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.MeetingPage.*;
+import static co.com.choucair.certification.retoautomatizacion_starsharp.userinterface.DasboardMenuPage.*;
+import static co.com.choucair.certification.retoautomatizacion_starsharp.userinterface.MeetingPage.*;
 
 public class CreateMeeting implements Task {
 

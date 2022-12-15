@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.runners;
+package co.com.choucair.certification.retoautomatizacion_starsharp.runners;
 
 
 
@@ -10,7 +10,7 @@ import org.junit.runner.RunWith;
 @CucumberOptions(
         features="src/test/resources/features/UserStarSharp.feature",
         tags= "@stories",
-        glue="co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions",
+        glue="co.com.choucair.certification.retoautomatizacion_starsharp.stepdefinitions",
 
         snippets=CucumberOptions.SnippetType.CAMELCASE)
 

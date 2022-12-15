@@ -1,6 +1,6 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.tasks;
+package co.com.choucair.certification.retoautomatizacion_starsharp.tasks;
 
-import co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.StarSharpPage;
+import co.com.choucair.certification.retoautomatizacion_starsharp.userinterface.StarSharpPage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
 import net.serenitybdd.screenplay.Tasks;

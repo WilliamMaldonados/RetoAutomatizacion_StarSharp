@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.tasks;
+package co.com.choucair.certification.retoautomatizacion_starsharp.tasks;
 
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Task;
@@ -6,7 +6,7 @@ import net.serenitybdd.screenplay.Tasks;
 import net.serenitybdd.screenplay.actions.Click;
 import net.serenitybdd.screenplay.actions.Enter;
 
-import static co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface.StarSharpPage.*;
+import static co.com.choucair.certification.retoautomatizacion_starsharp.userinterface.StarSharpPage.*;
 
 
 public class Login implements Task {

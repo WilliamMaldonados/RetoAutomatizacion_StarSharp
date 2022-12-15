@@ -1,9 +1,10 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface;
+package co.com.choucair.certification.retoautomatizacion_starsharp.userinterface;
 
+import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.screenplay.targets.Target;
 import org.openqa.selenium.By;
 
-public class DasboardMenuPage {
+public class DasboardMenuPage extends PageObject {
     public static final Target BUTTON_LINES = Target.the("item organization in menu").located(By.className("s-sidebar-toggler"));
     public static final Target ORGANIZATION_MENU = Target.the("item organization in menu").located(By.xpath("//span[contains(text(), 'Organization')]"));
     public static final Target UNITS_LINK = Target.the("item unit link").located(By.xpath("//span[contains(text(), 'Business Units')]"));

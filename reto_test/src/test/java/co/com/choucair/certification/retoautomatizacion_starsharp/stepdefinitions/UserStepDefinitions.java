@@ -1,8 +1,8 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions;
+package co.com.choucair.certification.retoautomatizacion_starsharp.stepdefinitions;
 
-import co.com.choucair.certification.RetoAutomatizacion_StarSharp.questions.SearchBU;
-import co.com.choucair.certification.RetoAutomatizacion_StarSharp.questions.SearchMeeting;
-import co.com.choucair.certification.RetoAutomatizacion_StarSharp.tasks.*;
+import co.com.choucair.certification.retoautomatizacion_starsharp.questions.SearchBU;
+import co.com.choucair.certification.retoautomatizacion_starsharp.questions.SearchMeeting;
+import co.com.choucair.certification.retoautomatizacion_starsharp.tasks.*;
 import io.cucumber.datatable.DataTable;
 import io.cucumber.java.Before;
 import io.cucumber.java.en.Given;

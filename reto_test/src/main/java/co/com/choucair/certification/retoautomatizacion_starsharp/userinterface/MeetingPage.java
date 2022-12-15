@@ -1,4 +1,4 @@
-package co.com.choucair.certification.RetoAutomatizacion_StarSharp.userinterface;
+package co.com.choucair.certification.retoautomatizacion_starsharp.userinterface;
 
 import net.serenitybdd.core.annotations.findby.By;
 import net.serenitybdd.core.pages.PageObject;
