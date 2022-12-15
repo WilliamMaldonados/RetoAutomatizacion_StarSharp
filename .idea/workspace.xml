@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bca7c67f-57f8-4382-b83c-0c408cfed2c2" name="Changes" comment="version 7.0" />
+    <list default="true" id="bca7c67f-57f8-4382-b83c-0c408cfed2c2" name="Changes" comment="version 11 &quot;Actulizacion directorios&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,7 +28,7 @@
     </system>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reto_test" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -91,7 +91,21 @@
       <option name="project" value="LOCAL" />
       <updated>1671056930387</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="version 7.0">
+      <created>1671115977878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1671115977878</updated>
+    </task>
+    <task id="LOCAL-00003" summary="version 11 &quot;Actulizacion directorios&quot;">
+      <created>1671116216773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1671116216773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -107,6 +121,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="version 7.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="version 7.0" />
+    <MESSAGE value="version 11 &quot;Actulizacion directorios&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 11 &quot;Actulizacion directorios&quot;" />
   </component>
 </project>
