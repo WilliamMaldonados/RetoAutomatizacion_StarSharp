@@ -1,5 +1,5 @@
 # Introduction 
-!Automatización de pruebas en la pagina demo de serenity Star Sharp 
+Automatización de pruebas en la pagina demo de serenity Star Sharp 
 
 # Getting Started
 Construido en java con builder gradle implementando el modelo de screenplay con las dependencias serenitybbd y cucumber
@@ -10,5 +10,5 @@ Construido en java con builder gradle implementando el modelo de screenplay con 
 4. Gradle 7.4
 
 # Build and Test
-reto de automatizacion con el cual un usuario admiminstrador entra a la pagina demo se serenity star sharp, para crear una unidad de negocio y 
+Reto de automatizacion con el cual un usuario admiminstrador entra a la pagina demo se serenity star sharp, para crear una unidad de negocio y 
 luego crear una reunion dentro de esa unidad de negocio
