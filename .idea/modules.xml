@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.RetoPractico_StarSharp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.RetoPractico_StarSharp.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.proyectobase.main.iml" filepath="$PROJECT_DIR$/.idea/modules/co.com.choucair.certification.proyectobase.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.co.choucar.RetoPractico_StarSharp.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.co.choucar.RetoPractico_StarSharp.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/com.co.choucar.RetoPractico_StarSharp1.iml" filepath="$PROJECT_DIR$/.idea/com.co.choucar.RetoPractico_StarSharp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/reto_test.main.iml" filepath="$PROJECT_DIR$/.idea/modules/reto_test.main.iml" />
     </modules>
   </component>
 </project>

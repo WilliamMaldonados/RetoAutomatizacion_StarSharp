@@ -4,93 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f2c74b0-14a6-4952-a484-41c8fab2def6" name="Changes" comment="Version 8.0 &quot;Test pass all scenarios&quot;">
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/7.4/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/RetoAutomatizacion_StarSharp/stepdefinitions/UserStepDefinitions.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/co/com/choucair/certification/RetoAutomatizacion_StarSharp/stepdefinitions/UserStepDefinitions.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/jacoco/test.exec" beforeDir="false" afterPath="$PROJECT_DIR$/build/jacoco/test.exec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/As#20a#20user#2c#20I#20want#20login#20in#20the#20Star#20Sharp#20Page#20so#20i#20should#20create#20a#20new#20meetings.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/As#20a#20user#2c#20I#20want#20login#20in#20the#20Star#20Sharp#20Page#20so#20i#20should#20create#20a#20new#20meetings.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.RetoAutomatizacion_StarSharp.runners.RunnerTags.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/co.com.choucair.certification.RetoAutomatizacion_StarSharp.runners.RunnerTags.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.RetoAutomatizacion_StarSharp.runners.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/co.com.choucair.certification.RetoAutomatizacion_StarSharp.runners.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/default-package.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-As#20a#20user#2c#20I#20want#20login#20in#20the#20Star#20Sharp#20Page#20so#20i#20should#20create#20a#20new#20meetings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-As#20a#20user#2c#20I#20want#20login#20in#20the#20Star#20Sharp#20Page#20so#20i#20should#20create#20a#20new#20meetings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/previous-compilation-data.bin" afterDir="false" />
-    </list>
+    <list default="true" id="bca7c67f-57f8-4382-b83c-0c408cfed2c2" name="Changes" comment="version 7.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="CodeStyleSettingsInfer">
-    <option name="done" value="true" />
-  </component>
   <component name="ExternalProjectsData">
-    <projectState path="$PROJECT_DIR$">
+    <projectState path="$PROJECT_DIR$/reto_test">
       <ProjectState />
     </projectState>
   </component>
   <component name="ExternalProjectsManager">
     <system id="GRADLE">
       <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
         <projects_view>
           <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="co.com.choucair.certification.proyectobase" type="f1a62948:ProjectNode" />
-              </path>
-            </expand>
+            <expand />
             <select />
           </tree_state>
         </projects_view>
       </state>
     </system>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;
-  }
-}</component>
-  <component name="GithubPullRequestsUISettings">
-    <option name="selectedUrlAndAccountId">
-      <UrlAndAccount>
-        <option name="accountId" value="66aab547-4a1f-49df-a7fd-e0a7eea636db" />
-        <option name="url" value="https://github.com/WilliamMaldonados/RetoAutomatizacion_StarSharp.git" />
-      </UrlAndAccount>
-    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/reto_test" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProblemsViewState">
-    <option name="selectedTabId" value="CurrentFile" />
-  </component>
-  <component name="ProjectCodeStyleSettingsMigration">
-    <option name="version" value="2" />
-  </component>
-  <component name="ProjectId" id="2GhH4YCUnTkzROQf1L9rC3eOmNX" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="2IvJpRrbEWKJZaCi5cDShSSCkFx" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -99,111 +42,14 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;corretto-16&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Willy-PC/IdeaProjects/com.co.choucar.RetoPractico_StarSharp&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.project.gradle&quot;
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Willy-PC/IdeaProjects/com.co.choucar.RetoPractico_StarSharp1&quot;
   }
 }</component>
-  <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="co.com.choucair.certification.RetoAitomatizacion_StarSharp.tasks" />
-    </key>
-  </component>
-  <component name="RunManager" selected="Gradle.RunnerTags">
-    <configuration name="Feature: academyChoucair" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" />
-      <option name="GLUE" value="co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions net.serenitybdd.cucumber.actors" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="co.com.choucair.certification.proyectobase.test" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter" />
-      <shortenClasspath name="MANIFEST" />
-      <option name="SUGGESTED_NAME" value="Feature: academyChoucair" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Create a meeting successfully" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/UserStarSharp.feature" />
-      <option name="GLUE" value="co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions net.serenitybdd.cucumber.actors" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="co.com.choucair.certification.proyectobase.test" />
-      <option name="NAME_FILTER" value="^Create a meeting successfully$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create a meeting successfully$&quot;" />
-      <shortenClasspath name="MANIFEST" />
-      <option name="SUGGESTED_NAME" value="Scenario: Create a meeting successfully" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: Create a new  Bussines unit" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" />
-      <option name="GLUE" value="co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions net.serenitybdd.cucumber.actors" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="co.com.choucair.certification.proyectobase.test" />
-      <option name="NAME_FILTER" value="^Create a new  Bussines unit$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Create a new  Bussines unit$&quot;" />
-      <shortenClasspath name="MANIFEST" />
-      <option name="SUGGESTED_NAME" value="Scenario: Create a new  Bussines unit" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: " type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="5" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/academyChoucair.feature" />
-      <option name="GLUE" value="co.com.choucair.certification.RetoAutomatizacion_StarSharp.stepdefinitions net.serenitybdd.cucumber.actors" />
-      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
-      <module name="co.com.choucair.certification.proyectobase.test" />
-      <option name="NAME_FILTER" value="^$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^$&quot;" />
-      <shortenClasspath name="MANIFEST" />
-      <option name="SUGGESTED_NAME" value="Scenario: " />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="io.cucumber.core.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
-      <shortenClasspath name="MANIFEST" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/reto_test" />
         <option name="externalSystemIdString" value="GRADLE" />
         <option name="scriptParameters" value="" />
         <option name="taskDescriptions">
@@ -226,100 +72,26 @@
     <recent_temporary>
       <list>
         <item itemvalue="Gradle.RunnerTags" />
-        <item itemvalue="Cucumber Java.Scenario: Create a meeting successfully" />
-        <item itemvalue="Cucumber Java.Scenario: Create a new  Bussines unit" />
-        <item itemvalue="Cucumber Java.Scenario: " />
-        <item itemvalue="Cucumber Java.Feature: academyChoucair" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="4f2c74b0-14a6-4952-a484-41c8fab2def6" name="Changes" comment="" />
-      <created>1666833705951</created>
+      <changelist id="bca7c67f-57f8-4382-b83c-0c408cfed2c2" name="Changes" comment="" />
+      <created>1671056305132</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1666833705951</updated>
+      <updated>1671056305132</updated>
     </task>
-    <task id="LOCAL-00001" summary="Version 1.0">
-      <created>1670959575889</created>
+    <task id="LOCAL-00001" summary="version 7.0">
+      <created>1671056930387</created>
       <option name="number" value="00001" />
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
-      <updated>1670959575889</updated>
+      <updated>1671056930387</updated>
     </task>
-    <task id="LOCAL-00002" summary="Version 1.0">
-      <created>1670959754821</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1670959754821</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Version 2.0">
-      <created>1670963248747</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1670963248747</updated>
-    </task>
-    <task id="LOCAL-00004" summary="Version 3.0 &quot;Questions Updated and data list in package model&quot;">
-      <created>1670973105140</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1670973105140</updated>
-    </task>
-    <task id="LOCAL-00005" summary="Version 4.0 &quot;Data List Test all scenarios&quot;">
-      <created>1671031437992</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1671031437992</updated>
-    </task>
-    <task id="LOCAL-00006" summary="Version 4.0 &quot;Data List Test all scenarios&quot;">
-      <created>1671040729718</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1671040729718</updated>
-    </task>
-    <task id="LOCAL-00007" summary="Version 5.0 &quot;Test all scenarios&quot;">
-      <created>1671040784823</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1671040784823</updated>
-    </task>
-    <task id="LOCAL-00008" summary="Version 5.0 &quot;Test all scenarios&quot;">
-      <created>1671045779890</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1671045779890</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Version 6.0 &quot;Test pass all scenarios&quot;">
-      <created>1671055580861</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1671055580861</updated>
-    </task>
-    <task id="LOCAL-00010" summary="Version 6.0 &quot;Test pass all scenarios&quot;">
-      <created>1671055883544</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1671055883544</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Version 8.0 &quot;Test pass all scenarios&quot;">
-      <created>1671057405942</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1671057405942</updated>
-    </task>
-    <option name="localTasksCounter" value="12" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -334,13 +106,7 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Version 1.0" />
-    <MESSAGE value="Version 2.0" />
-    <MESSAGE value="Version 3.0 &quot;Questions Updated and data list in package model&quot;" />
-    <MESSAGE value="Version 4.0 &quot;Data List Test all scenarios&quot;" />
-    <MESSAGE value="Version 5.0 &quot;Test all scenarios&quot;" />
-    <MESSAGE value="Version 6.0 &quot;Test pass all scenarios&quot;" />
-    <MESSAGE value="Version 8.0 &quot;Test pass all scenarios&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Version 8.0 &quot;Test pass all scenarios&quot;" />
+    <MESSAGE value="version 7.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="version 7.0" />
   </component>
 </project>
