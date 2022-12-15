@@ -1,0 +1,288 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>Screenshots</title>
+
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="bootstrap-icons/font/bootstrap-icons.css"><!-- JQuery -->
+<script type="text/javascript" src="scripts/jquery-1.11.1.min.js"></script><!-- Required Stylesheets -->
+<link href="bootstrap-treeview/dist/bootstrap-treeview.min.css" rel="stylesheet">
+
+<!-- Required Javascript -->
+<script src="bootstrap-treeview/dist/bootstrap-treeview.min.js"></script><!-- DataTables -->
+<link type="text/css" href="datatables/1.11.3/datatables.min.css" rel="stylesheet" />
+<script type="text/javascript" src="datatables/1.11.3/datatables.min.js"></script>
+<script type="text/javascript" src="datatables/1.11.3/time-elapsed-dhms.js"></script>
+
+<link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
+<script src="bootstrap/js/bootstrap.min.js"></script>
+
+
+<script>
+    jQuery.fn.dataTable.ext.type.order['time-elapsed-dhms-pre'] = function(data) {
+
+        var matches = data.match(/^(\d+(?:\.\d+)?)\s*([a-z]+)/i);
+        var multipliers = {
+            ms: 1,
+            s: 1000,
+            m: 60000,
+            h: 3600000,
+            d: 86400000
+        };
+
+        if (matches) {
+            var multiplier = multipliers[matches[2].toLowerCase()];
+            return parseFloat(matches[1]) * multiplier;
+        } else {
+            return -1;
+        };
+    };
+</script>
+<link rel="stylesheet" href="css/core.css"/>
+<link rel="stylesheet" href="css/link.css"/>
+<link type="text/css" media="screen" href="css/screen.css" rel="Stylesheet"/>
+<!--CHART.JS-->
+<script src="chartjs/chart.js"></script>
+<script src="chartjs/chartjs-plugin-datalabels@2.0.0"></script>
+<script src="chartjs/patternomaly.min.js"></script>
+<script>
+    // Register the plugin to all charts:
+    Chart.register(ChartDataLabels);
+</script>
+<!-- Nivo Slider -->
+<link rel="stylesheet" href="nivo-slider/3.2/nivo-slider.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="nivo-slider/3.2/themes/default/default.css" type="text/css" media="screen" />
+<script src="nivo-slider/3.2/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+
+    <script type="text/javascript">
+
+        function getUrlVars() {
+            var vars = {};
+            var parts = window.location.href.replace(/[?&]+([^=&]+)=([^&]*)/gi, function (m, key, value) {
+                vars[key] = value;
+            });
+            return vars;
+        }
+
+        var screenshotIndex = getUrlVars()["screenshot"];
+
+        $(window).load(function () {
+            $('#slider').nivoSlider({
+                startSlide: screenshotIndex,
+                effect: 'fade',
+                animSpeed: 200,
+                manualAdvance: true
+            });
+        });
+
+        $(window).keydown(function(e) {
+            switch(e.which) {
+                case 37:
+                    $('a.nivo-prevNav').click();
+                    break;
+                case 39:
+                    $('a.nivo-nextNav').click();
+                    break;
+            }
+        });
+    </script>
+
+</head>
+
+<body>
+<div id="topheader">
+    <div id="topbanner">
+        <div id="logo"><a href="index.html"><img src="images/serenity-logo.png" border="0"/></a></div>
+        <div id="projectname-banner" style="float:right">
+            <span class="projectname">
+                <span class="projecttitle">Demo Project using Serenity and Cucumber</span>
+                <span class="projectsubtitle"></span>
+            </span>
+        </div>
+    </div>
+</div>
+
+<div class="middlecontent">
+    <div id="contenttop">
+        <div class="middlebg">
+            <span class="breadcrumbs">
+                <a href="index.html">Home</a>
+                > <span class="truncate-40"><a
+                    href="403c7b17e835c2a082d7ea5353d41b55e7e050df2e9d7eb1dce39d87b27bc4a7.html">As A User, I Want Login In The Star Sharp Page So I Should Create A New Meetings</a></span>
+                > <span class="truncate-60"><a
+                    href="3b78946b926cd780dab3a100d5b5db5c2fd198399c5f63dacfbd81030ef41062.html">Create a new  Bussines unit </a></span>
+                > Screenshots
+            </span>
+        </div>
+        <div class="rightbg"></div>
+    </div>
+
+    <div class="clr"></div>
+
+    <!--/* starts second table*/-->
+<div>
+    <ul class="nav nav-tabs" role="tablist">
+        <li class="active">
+            <a href="#"><i class="bi bi-journal-check"></i> Overall Test Results</a>
+        </li>
+        <li >
+            <a href="capabilities.html"><i class="bi bi-journal-text"></i> Requirements</a>
+        </li>
+        <li >
+            <a href="576946480b52ad056d6f5bddf874399c83582ecf90963cc074a14c70580e7d9f.html"><i class="bi bi-chat-text"></i> Features</a>
+        </li>
+    </ul>
+    <span class="date-and-time"><a href="build-info.html"><i class="bi bi-info-circle"></i></a> Report generated 14-12-2022 22:33</span>
+    <br style="clear:left"/>
+</div>
+
+    <div class="clr"></div>
+
+
+    <div id="contentbody">
+        <div class="titlebar">
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td>
+                            <div>
+                                <h3 class="discreet-story-header">
+                                    <i class="fs-2 bi bi-chat-left-quote large-icon"></i>
+                                    <span class="story-header-title">As A User, I Want Login In The Star Sharp Page So I Should Create A New Meetings </span>
+                                    <span class="badge tag-badge" style="">Feature</span>
+                                </h3>
+
+                                <div class="discreet-requirement-narrative-title">
+                                
+                                </div>
+                            </div>
+
+                        </td>
+                        <td valign="top" align="right">
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;"
+                                    <i class="bi bi-tag-fill"></i>&nbsp;<a class="tagLink" style="background:default;" href="e4ef4831a220e0a9cbdbfec794f5c31b3fef2adf1cb8126df1cc35a6f525969c.html">Scenario1
+                                    (tag)</a>
+                                </span>
+                            </p>
+                            <p class="tag">
+                                <span class="badge tag-badge" style="background:default;"
+                                    <i class="bi bi-tag-fill"></i>&nbsp;<a class="tagLink" style="background:default;" href="8e3b9bd5eba0a2d944ce7d2a73335e57289cd25f71e556e1618e946dc87d7ec9.html">Stories
+                                    (tag)</a>
+                                </span>
+                            </p>
+                        </td>
+                    </tr>
+                </table>
+            </div>
+            <div class="story-title">
+                <table class="outcome-header">
+                    <tr>
+                        <td colspan="2" class="test-title-bar">
+                            <span class="outcome-icon"><a href='##beforetable'><i class='bi bi-check-circle-fill success-icon fa-2x' title='SUCCESS'></i></a></span>
+                            <span class="test-case-title">
+                                <span class="success-color">Create a new  Bussines unit
+                                    <span class="related-issue-title"></span>
+                                </span>
+                            </span>
+
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="clr"></div>
+
+    <div class="story-title">
+        <h3>Scenario:</h3>
+        <div class="scenario">And he go to the Bussines Units<br>When he create a new unit<br><table class='embedded'><tbody><tr><td>unitName</td></tr><tr><td>&lt;unitName&gt;</td></tr></tbody></table><br>Then the &lt;unitName&gt; should display in the menu</div>
+    </div>
+
+    <div id="beforetable"></div>
+    <div id="contenttilttle">
+        <div class="slider-wrapper theme-default">
+            <div id="slider">
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" 1: Create a new  Bussines unit ({unitName=UnidadWill})" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" Given that the user is on the star sharp page" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" User openthe page" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" user opens the Star sharp page" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" User openthe page (completed)" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" Given that the user is on the star sharp page (completed)" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" And the user Logs in
+| user | password |
+| admin | serenity |" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" User login" width="1920"/>
+                <img src="b4b0980380dfbb4635709cfde1df46430fbe9d7791bd896bb54acdf843eb6492.png" title=" user enters 'admin' into User name" width="1920"/>
+                <img src="c5379d1d57f44d73ae37ea98122f6cb5afb05a6a097c3e0de8ba8c65ef1711a8.png" title=" user enters 'admin' into User name (completed)" width="1920"/>
+                <img src="c5379d1d57f44d73ae37ea98122f6cb5afb05a6a097c3e0de8ba8c65ef1711a8.png" title=" user enters 'serenity' into Password" width="1920"/>
+                <img src="bc021bebc936ed589b8244fc2c06ac6b282a46647f6646990d6beb98f3825849.png" title=" user enters 'serenity' into Password (completed)" width="1920"/>
+                <img src="bc021bebc936ed589b8244fc2c06ac6b282a46647f6646990d6beb98f3825849.png" title=" user clicks on Boton sing in" width="1920"/>
+                <img src="ba12bcfb4133baf9d7e018e5de9847f623045776bb6540fc5da44f738942546b.png" title=" user clicks on Boton sing in (completed)" width="1920"/>
+                <img src="ba12bcfb4133baf9d7e018e5de9847f623045776bb6540fc5da44f738942546b.png" title=" User login (completed)" width="1920"/>
+                <img src="ba12bcfb4133baf9d7e018e5de9847f623045776bb6540fc5da44f738942546b.png" title=" And the user Logs in
+| user | password |
+| admin | serenity | (completed)" width="1920"/>
+                <img src="ba12bcfb4133baf9d7e018e5de9847f623045776bb6540fc5da44f738942546b.png" title=" And he go to the Bussines Units" width="1920"/>
+                <img src="63a57f5f21fcf81a7ef71eea2a0d12cde832bf1a710aac0ef18a425da6ff655f.png" title=" User validation bu" width="1920"/>
+                <img src="87a2111a054b8bc898bcc0c3ba46fd4ad7d05e78830f8027415688356066f327.png" title=" user clicks on item organization in menu" width="1920"/>
+                <img src="ae6c2683efcb04dd40abe0f9ab59994c8854e277f52362a29ab9aafe27712d91.png" title=" user clicks on item organization in menu (completed)" width="1920"/>
+                <img src="eac3a548b4ffbb48dc3aa121cf81f0fa07310a4202c8f4d3f3b62dd934f3a530.png" title=" user clicks on item unit link" width="1920"/>
+                <img src="4805b24cc5a4a4dfbe04ca78268032649389dd4c8543f10d6739d1677a62cca4.png" title=" user clicks on item unit link (completed)" width="1920"/>
+                <img src="4805b24cc5a4a4dfbe04ca78268032649389dd4c8543f10d6739d1677a62cca4.png" title=" User validation bu (completed)" width="1920"/>
+                <img src="4805b24cc5a4a4dfbe04ca78268032649389dd4c8543f10d6739d1677a62cca4.png" title=" And he go to the Bussines Units (completed)" width="1920"/>
+                <img src="4805b24cc5a4a4dfbe04ca78268032649389dd4c8543f10d6739d1677a62cca4.png" title=" When he create a new unit
+| unitName |
+| UnidadWill |" width="1920"/>
+                <img src="4805b24cc5a4a4dfbe04ca78268032649389dd4c8543f10d6739d1677a62cca4.png" title=" User create bu" width="1920"/>
+                <img src="4805b24cc5a4a4dfbe04ca78268032649389dd4c8543f10d6739d1677a62cca4.png" title=" user clicks on new unit button" width="1920"/>
+                <img src="e33026b0983a0fcd08da9e3fbc539fc5236cad661364692f39eeaa25a1852b8d.png" title=" user clicks on new unit button (completed)" width="1920"/>
+                <img src="e33026b0983a0fcd08da9e3fbc539fc5236cad661364692f39eeaa25a1852b8d.png" title=" user enters 'UnidadWill' into input name" width="1920"/>
+                <img src="7be7ff71798f5312c969caf17282dacaf794e2c4a781262f682a233d4bb088a7.png" title=" user enters 'UnidadWill' into input name (completed)" width="1920"/>
+                <img src="7be7ff71798f5312c969caf17282dacaf794e2c4a781262f682a233d4bb088a7.png" title=" user clicks on parent select" width="1920"/>
+                <img src="8050510a832578985bcc9f6aa18d85ebe1adb49fb9d96984f942328bc923ede6.png" title=" user clicks on parent select (completed)" width="1920"/>
+                <img src="8050510a832578985bcc9f6aa18d85ebe1adb49fb9d96984f942328bc923ede6.png" title=" user clicks on parent tech" width="1920"/>
+                <img src="18560230ecaa0174b7b178165a0fa7471340eb029261b5b720c9e4e57eb7ca7f.png" title=" user clicks on parent tech (completed)" width="1920"/>
+                <img src="18560230ecaa0174b7b178165a0fa7471340eb029261b5b720c9e4e57eb7ca7f.png" title=" user clicks on button create" width="1920"/>
+                <img src="c13b9c73b22c82f3f6a9afc401015ac83312db52b0facb7a392f00724630ce7e.png" title=" user clicks on button create (completed)" width="1920"/>
+                <img src="c13b9c73b22c82f3f6a9afc401015ac83312db52b0facb7a392f00724630ce7e.png" title=" User create bu (completed)" width="1920"/>
+                <img src="c13b9c73b22c82f3f6a9afc401015ac83312db52b0facb7a392f00724630ce7e.png" title=" When he create a new unit
+| unitName |
+| UnidadWill | (completed)" width="1920"/>
+                <img src="c13b9c73b22c82f3f6a9afc401015ac83312db52b0facb7a392f00724630ce7e.png" title=" Then the UnidadWill should display in the menu" width="1920"/>
+                <img src="89b6f34bf63a384d26f43ad540dfb79bfbaac7bd2aef5167a560e415cdfc4fa2.png" title=" Then search bu" width="1920"/>
+                <img src="1f092dcef07618f9a6bd209475f84d41205e2b5b575d3b1cd3538140fb38ed50.png" title=" Then search bu (completed)" width="1920"/>
+                <img src="1f092dcef07618f9a6bd209475f84d41205e2b5b575d3b1cd3538140fb38ed50.png" title=" Then the UnidadWill should display in the menu (completed)" width="1920"/>
+                <img src="1f092dcef07618f9a6bd209475f84d41205e2b5b575d3b1cd3538140fb38ed50.png" title=" 1: Create a new  Bussines unit ({unitName=UnidadWill}) (completed): <span class='success-color'>SUCCESS</span>" width="1920"/>
+            </div>
+        </div>
+
+
+    </div>
+</div>
+<div id="beforefooter"></div>
+<div id="bottomfooter">
+    <span class="version">Serenity BDD version 3.3.2</span>
+</div>
+</body>
+</html>
